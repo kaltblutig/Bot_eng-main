@@ -1,0 +1,23 @@
+// gpt answer
+{
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "text": "That's close! Try to say it with a bit more emphasis on the \"a\" sound. It should sound like \"aht\"."
+      }
+    ],
+    "created": 1677356257,
+    "id": "cmpl-6nvH7WXs5peiMrgIyRq5oPAAd0WxO",
+    "model": "text-davinci-003",
+    "object": "text_completion",
+    "usage": {
+      "completion_tokens": 28,
+      "prompt_tokens": 36,
+      "total_tokens": 64
+    }
+  }
+
+// types.audio
+{"message_id": 957, "from": {"id": 457033689, "is_bot": false, "first_name": "pip", "last_name": "install", "username": "ether182", "language_code": "ru"}, "chat": {"id": 457033689, "first_name": "pip", "last_name": "install", "username": "ether182", "type": "private"}, "date": 1677423861, "voice": {"duration": 1, "mime_type": "audio/ogg", "file_id": "AwACAgIAAxkBAAIDvWP7dPXgdTEvFFuWGknOlID9OSjZAALkKQAClOPhS4SCOPBq3JjpLgQ", "file_unique_id": "AgAD5CkAApTj4Us", "file_size": 5760}}
